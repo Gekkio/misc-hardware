@@ -1,0 +1,39 @@
+[submodule "BUS-BLASTER-AVR/external/kicad-footprints"]
+	path = BUS-BLASTER-AVR/external/kicad-footprints
+	url = https://github.com/KiCad/kicad-footprints.git
+[submodule "BUS-BLASTER-AVR/external/kicad-symbols"]
+	path = BUS-BLASTER-AVR/external/kicad-symbols
+	url = https://github.com/KiCad/kicad-symbols.git
+[submodule "PIC-ICSP-504050/external/kicad-footprints"]
+	path = PIC-ICSP-504050/external/kicad-footprints
+	url = https://github.com/KiCad/kicad-footprints.git
+[submodule "PIC-ICSP-504050/external/kicad-symbols"]
+	path = PIC-ICSP-504050/external/kicad-symbols
+	url = https://github.com/KiCad/kicad-symbols.git
+[submodule "BRK-SOT-23/external/kicad-footprints"]
+	path = BRK-SOT-23-3/external/kicad-footprints
+	url = https://github.com/KiCad/kicad-footprints.git
+[submodule "BRK-SOT-23/external/kicad-symbols"]
+	path = BRK-SOT-23-3/external/kicad-symbols
+	url = https://github.com/KiCad/kicad-symbols.git
+[submodule "BRK-SC-70-6/external/kicad-footprints"]
+	path = BRK-SC-70-6/external/kicad-footprints
+	url = https://github.com/KiCad/kicad-footprints.git
+[submodule "BRK-SC-70-6/external/kicad-symbols"]
+	path = BRK-SC-70-6/external/kicad-symbols
+	url = https://github.com/KiCad/kicad-symbols.git
+[submodule "BUS-BLASTER-AVR-1.27/external/kicad-footprints"]
+	path = BUS-BLASTER-AVR-1.27/external/kicad-footprints
+	url = https://github.com/KiCad/kicad-footprints.git
+[submodule "BUS-BLASTER-AVR-1.27/external/kicad-symbols"]
+	path = BUS-BLASTER-AVR-1.27/external/kicad-symbols
+	url = https://github.com/KiCad/kicad-symbols.git
+[submodule "BRK-SC-70-6/external/gekkio-kicad-libs"]
+	path = BRK-SC-70-6/external/gekkio-kicad-libs
+	url = https://github.com/Gekkio/gekkio-kicad-libs.git
+[submodule "BRK-SOT-23-3/external/kicad-footprints"]
+	path = BRK-SOT-23-3/external/kicad-footprints
+	url = https://github.com/KiCad/kicad-footprints.git
+[submodule "BRK-SOT-23-3/external/kicad-symbols"]
+	path = BRK-SOT-23-3/external/kicad-symbols
+	url = https://github.com/KiCad/kicad-symbols.git
