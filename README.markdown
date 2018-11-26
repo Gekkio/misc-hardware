@@ -9,6 +9,8 @@ Used libraries:
 
 ## BRK-SC-70-6
 
+![BRK-SC-70-6 v1.0 KiCad 3D view](BRK-SC-70-6.3d.png)
+
 Breakout board for one SC-70-6 component.
 
 * PCB size: 18.3x18mm
@@ -18,6 +20,8 @@ Breakout board for one SC-70-6 component.
 
 ## BRK-SOT-23-3
 
+![BRK-SOT-23-3 v1.0 KiCad 3D view](BRK-SOT-23-3.3d.png)
+
 Breakout board for two SOT-23-3 components.
 
 * PCB size: 18.3x22.9mm
@@ -26,6 +30,8 @@ Breakout board for two SOT-23-3 components.
 * Surface finish: any (ENIG recommended)
 
 ## BUS-BLASTER-AVR
+
+![BUS-BLASTER-AVR v1.0 KiCad 3D view](BUS-BLASTER-AVR.3d.png)
 
 Adapts 20-pin (2x10) 2.54 inch ARM JTAG used by Bus Blaster to 10-pin (2x5)
 2.54 inch AVR JTAG.
@@ -37,6 +43,8 @@ Adapts 20-pin (2x10) 2.54 inch ARM JTAG used by Bus Blaster to 10-pin (2x5)
 
 ## BUS-BLASTER-AVR-1.27
 
+![BUS-BLASTER-AVR-1.27 v1.0 KiCad 3D view](BUS-BLASTER-AVR-1.27.3d.png)
+
 Adapts 20-pin (2x10) 2.54 inch ARM JTAG used by Bus Blaster to 10-pin (2x5)
 1.27 inch AVR JTAG.
 
@@ -46,6 +54,8 @@ Adapts 20-pin (2x10) 2.54 inch ARM JTAG used by Bus Blaster to 10-pin (2x5)
 * Surface finish: any
 
 ## PIC-ICSP-504050
+
+![PIC-ICSP-504050 v1.0 KiCad 3D view](PIC-ICSP-504050.3d.png)
 
 Adapts 6-pin (1x6) PIC ICSP to 5-pin Molex 504050 connector.
 
