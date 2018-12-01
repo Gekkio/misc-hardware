@@ -1,11 +1,11 @@
 EESchema Schematic File Version 4
-LIBS:BRK-SC-70-6-cache
+LIBS:BRK-SOT-23-6-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "BRK-SC-70-6"
+Title "BRK-SOT-23-6"
 Date ""
 Rev "v1.0"
 Comp "https://gekkio.fi"
@@ -19,8 +19,8 @@ L Connector_Generic:Conn_02x03_Counter_Clockwise U1
 U 1 1 5BD4B043
 P 5700 3900
 F 0 "U1" H 5750 4217 50  0000 C CNN
-F 1 "SC-70-6" H 5750 4126 50  0000 C CNN
-F 2 "Package_TO_SOT_SMD:SOT-363_SC-70-6_Handsoldering" H 5700 3900 50  0001 C CNN
+F 1 "SOT-23-6" H 5750 4126 50  0000 C CNN
+F 2 "Package_TO_SOT_SMD:SOT-23-6_Handsoldering" H 5700 3900 50  0001 C CNN
 F 3 "~" H 5700 3900 50  0001 C CNN
 	1    5700 3900
 	1    0    0    -1  
