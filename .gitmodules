@@ -28,9 +28,6 @@
 [submodule "BUS-BLASTER-AVR-1.27/external/kicad-symbols"]
 	path = BUS-BLASTER-AVR-1.27/external/kicad-symbols
 	url = https://github.com/KiCad/kicad-symbols.git
-[submodule "BRK-SC-70-6/external/gekkio-kicad-libs"]
-	path = BRK-SC-70-6/external/gekkio-kicad-libs
-	url = https://github.com/Gekkio/gekkio-kicad-libs.git
 [submodule "BRK-SOT-23-3/external/kicad-footprints"]
 	path = BRK-SOT-23-3/external/kicad-footprints
 	url = https://github.com/KiCad/kicad-footprints.git
