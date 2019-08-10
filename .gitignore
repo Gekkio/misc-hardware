@@ -12,3 +12,4 @@ _autosave-*
 *.xml
 *.csv
 *.gbrjob
+fp-info-cache

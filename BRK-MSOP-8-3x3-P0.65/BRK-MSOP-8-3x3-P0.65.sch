@@ -1,13 +1,13 @@
 EESchema Schematic File Version 4
 LIBS:BRK-MSOP-8-3x3-P0.65-cache
-EELAYER 26 0
+EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "BRK-MSOP-8-3x3-P0.65"
 Date ""
-Rev "v1.0"
+Rev "v1.1"
 Comp "https://gekkio.fi"
 Comment1 ""
 Comment2 ""
