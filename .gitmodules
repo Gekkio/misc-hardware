@@ -58,3 +58,12 @@
 [submodule "BRK-SSOP-16-4.4x5.2-P0.65/external/kicad-symbols"]
 	path = BRK-SSOP-16-4.4x5.2-P0.65/external/kicad-symbols
 	url = https://github.com/KiCad/kicad-symbols.git
+[submodule "BRK-SSOP-18-6x7.4-P0.8/external/gekkio-kicad-libs"]
+	path = BRK-SSOP-18-6x7.4-P0.8/external/gekkio-kicad-libs
+	url = https://github.com/Gekkio/gekkio-kicad-libs.git
+[submodule "BRK-SSOP-18-6x7.4-P0.8/external/kicad-footprints"]
+	path = BRK-SSOP-18-6x7.4-P0.8/external/kicad-footprints
+	url = https://github.com/KiCad/kicad-footprints.git
+[submodule "BRK-SSOP-18-6x7.4-P0.8/external/kicad-symbols"]
+	path = BRK-SSOP-18-6x7.4-P0.8/external/kicad-symbols
+	url = https://github.com/KiCad/kicad-symbols.git

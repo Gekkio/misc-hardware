@@ -57,7 +57,18 @@ Breakout board for one SOT-23-6 component.
 
 Breakout board for one SSOP-16 component (4.4x5.2mm body, pitch 0.65mm).
 
-* PCB size: 24.3x32.7mm
+* PCB size: 24x32.7mm
+* PCB thickness: any (1.0mm recommended)
+* Layer count: 2
+* Surface finish: any (ENIG recommended)
+
+## BRK-SSOP-18-6x7.4-P0.8
+
+![BRK-SSOP-18-6x7.4-P0.8 v1.1 KiCad 3D view](BRK-SSOP-18-6x7.4-P0.8.3d.png)
+
+Breakout board for one SSOP-18 component (6x7.4mm body, pitch 0.8mm).
+
+* PCB size: 24x35.3mm
 * PCB thickness: any (1.0mm recommended)
 * Layer count: 2
 * Surface finish: any (ENIG recommended)
