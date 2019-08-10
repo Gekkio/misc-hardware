@@ -9,7 +9,7 @@ Used libraries:
 
 ## BRK-MSOP-8-3x3-P0.65
 
-![BRK-MSOP-8-3x3-P0.65 v1.0 KiCad 3D view](BRK-MSOP-8-3x3-P0.65.3d.png)
+![BRK-MSOP-8-3x3-P0.65 v1.1 KiCad 3D view](BRK-MSOP-8-3x3-P0.65.3d.png)
 
 Breakout board for one MSOP-8 component (3x3mm body, pitch 0.65mm).
 
@@ -20,7 +20,7 @@ Breakout board for one MSOP-8 component (3x3mm body, pitch 0.65mm).
 
 ## BRK-SC-70-6
 
-![BRK-SC-70-6 v1.0 KiCad 3D view](BRK-SC-70-6.3d.png)
+![BRK-SC-70-6 v1.1 KiCad 3D view](BRK-SC-70-6.3d.png)
 
 Breakout board for one SC-70-6 component.
 
@@ -31,7 +31,7 @@ Breakout board for one SC-70-6 component.
 
 ## BRK-SOT-23-3
 
-![BRK-SOT-23-3 v1.0 KiCad 3D view](BRK-SOT-23-3.3d.png)
+![BRK-SOT-23-3 v1.1 KiCad 3D view](BRK-SOT-23-3.3d.png)
 
 Breakout board for two SOT-23-3 components.
 
@@ -42,7 +42,7 @@ Breakout board for two SOT-23-3 components.
 
 ## BRK-SOT-23-6
 
-![BRK-SOT-23-6 v1.0 KiCad 3D view](BRK-SOT-23-6.3d.png)
+![BRK-SOT-23-6 v1.1 KiCad 3D view](BRK-SOT-23-6.3d.png)
 
 Breakout board for one SOT-23-6 component.
 
@@ -51,9 +51,20 @@ Breakout board for one SOT-23-6 component.
 * Layer count: 2
 * Surface finish: any (ENIG recommended)
 
+## BRK-SSOP-16-4.4x5.2-P0.65
+
+![BRK-SSOP-16-4.4x5.2-P0.65 v1.1 KiCad 3D view](BRK-SSOP-16-4.4x5.2-P0.65.3d.png)
+
+Breakout board for one SSOP-16 component (4.4x5.2mm body, pitch 0.65mm).
+
+* PCB size: 24.3x32.7mm
+* PCB thickness: any (1.0mm recommended)
+* Layer count: 2
+* Surface finish: any (ENIG recommended)
+
 ## BRK-VSSOP-8-2.4x2.1-P0.5
 
-![BRK-VSSOP-8-2.4x2.1-P0.5 v1.0 KiCad 3D view](BRK-VSSOP-8-2.4x2.1-P0.5.3d.png)
+![BRK-VSSOP-8-2.4x2.1-P0.5 v1.1 KiCad 3D view](BRK-VSSOP-8-2.4x2.1-P0.5.3d.png)
 
 Breakout board for one VSSOP-8 component (2.4x2.1mm body, pitch 0.5mm).
 
