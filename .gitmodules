@@ -1,120 +1,120 @@
-[submodule "third-party/gekkio-kicad-libs"]
-	path = third-party/gekkio-kicad-libs
+[submodule "external/gekkio-kicad-libs"]
+	path = external/gekkio-kicad-libs
 	url = https://github.com/Gekkio/gekkio-kicad-libs.git
-[submodule "third-party/kicad-footprints"]
-	path = third-party/kicad-footprints
+[submodule "external/kicad-footprints"]
+	path = external/kicad-footprints
 	url = https://github.com/KiCad/kicad-footprints.git
-[submodule "third-party/kicad-symbols"]
-	path = third-party/kicad-symbols
+[submodule "external/kicad-symbols"]
+	path = external/kicad-symbols
 	url = https://github.com/KiCad/kicad-symbols.git
 [submodule "BUS-BLASTER-AVR/external/kicad-footprints"]
 	path = BUS-BLASTER-AVR/external/kicad-footprints
-	url = ./third-party/kicad-footprints
+	url = ./external/kicad-footprints
 [submodule "BUS-BLASTER-AVR/external/kicad-symbols"]
 	path = BUS-BLASTER-AVR/external/kicad-symbols
-	url = ./third-party/kicad-symbols
+	url = ./external/kicad-symbols
 [submodule "PIC-ICSP-504050/external/kicad-footprints"]
 	path = PIC-ICSP-504050/external/kicad-footprints
-	url = ./third-party/kicad-footprints
+	url = ./external/kicad-footprints
 [submodule "PIC-ICSP-504050/external/kicad-symbols"]
 	path = PIC-ICSP-504050/external/kicad-symbols
-	url = ./third-party/kicad-symbols
+	url = ./external/kicad-symbols
 [submodule "BRK-SC-70-6/external/kicad-footprints"]
 	path = BRK-SC-70-6/external/kicad-footprints
-	url = ./third-party/kicad-footprints
+	url = ./external/kicad-footprints
 [submodule "BRK-SC-70-6/external/kicad-symbols"]
 	path = BRK-SC-70-6/external/kicad-symbols
-	url = ./third-party/kicad-symbols
+	url = ./external/kicad-symbols
 [submodule "BUS-BLASTER-AVR-1.27/external/kicad-footprints"]
 	path = BUS-BLASTER-AVR-1.27/external/kicad-footprints
-	url = ./third-party/kicad-footprints
+	url = ./external/kicad-footprints
 [submodule "BUS-BLASTER-AVR-1.27/external/kicad-symbols"]
 	path = BUS-BLASTER-AVR-1.27/external/kicad-symbols
-	url = ./third-party/kicad-symbols
+	url = ./external/kicad-symbols
 [submodule "BRK-SOT-23-3/external/kicad-footprints"]
 	path = BRK-SOT-23-3/external/kicad-footprints
-	url = ./third-party/kicad-footprints
+	url = ./external/kicad-footprints
 [submodule "BRK-SOT-23-3/external/kicad-symbols"]
 	path = BRK-SOT-23-3/external/kicad-symbols
-	url = ./third-party/kicad-symbols
+	url = ./external/kicad-symbols
 [submodule "BRK-SOT-23-6/external/kicad-footprints"]
 	path = BRK-SOT-23-6/external/kicad-footprints
-	url = ./third-party/kicad-footprints
+	url = ./external/kicad-footprints
 [submodule "BRK-SOT-23-6/external/kicad-symbols"]
 	path = BRK-SOT-23-6/external/kicad-symbols
-	url = ./third-party/kicad-symbols
+	url = ./external/kicad-symbols
 [submodule "BRK-VSSOP-8-2.4x2.1-P0.5/external/kicad-footprints"]
 	path = BRK-VSSOP-8-2.4x2.1-P0.5/external/kicad-footprints
-	url = ./third-party/kicad-footprints
+	url = ./external/kicad-footprints
 [submodule "BRK-VSSOP-8-2.4x2.1-P0.5/external/kicad-symbols"]
 	path = BRK-VSSOP-8-2.4x2.1-P0.5/external/kicad-symbols
-	url = ./third-party/kicad-symbols
+	url = ./external/kicad-symbols
 [submodule "BRK-MSOP-8-3x3-P0.65/external/kicad-footprints"]
 	path = BRK-MSOP-8-3x3-P0.65/external/kicad-footprints
-	url = ./third-party/kicad-footprints
+	url = ./external/kicad-footprints
 [submodule "BRK-MSOP-8-3x3-P0.65/external/kicad-symbols"]
 	path = BRK-MSOP-8-3x3-P0.65/external/kicad-symbols
-	url = ./third-party/kicad-symbols
+	url = ./external/kicad-symbols
 [submodule "BRK-SSOP-16-4.4x5.2-P0.65/external/kicad-footprints"]
 	path = BRK-SSOP-16-4.4x5.2-P0.65/external/kicad-footprints
-	url = ./third-party/kicad-footprints
+	url = ./external/kicad-footprints
 [submodule "BRK-SSOP-16-4.4x5.2-P0.65/external/kicad-symbols"]
 	path = BRK-SSOP-16-4.4x5.2-P0.65/external/kicad-symbols
-	url = ./third-party/kicad-symbols
+	url = ./external/kicad-symbols
 [submodule "BRK-SSOP-18-6x7.4-P0.8/external/gekkio-kicad-libs"]
 	path = BRK-SSOP-18-6x7.4-P0.8/external/gekkio-kicad-libs
-	url = ./third-party/gekkio-kicad-libs
+	url = ./external/gekkio-kicad-libs
 [submodule "BRK-SSOP-18-6x7.4-P0.8/external/kicad-footprints"]
 	path = BRK-SSOP-18-6x7.4-P0.8/external/kicad-footprints
-	url = ./third-party/kicad-footprints
+	url = ./external/kicad-footprints
 [submodule "BRK-SSOP-18-6x7.4-P0.8/external/kicad-symbols"]
 	path = BRK-SSOP-18-6x7.4-P0.8/external/kicad-symbols
-	url = ./third-party/kicad-symbols
+	url = ./external/kicad-symbols
 [submodule "BRK-QFP-32-7x7-P0.8/external/kicad-footprints"]
 	path = BRK-QFP-32-7x7-P0.8/external/kicad-footprints
-	url = ./third-party/kicad-footprints
+	url = ./external/kicad-footprints
 [submodule "BRK-QFP-32-7x7-P0.8/external/kicad-symbols"]
 	path = BRK-QFP-32-7x7-P0.8/external/kicad-symbols
-	url = ./third-party/kicad-symbols
+	url = ./external/kicad-symbols
 [submodule "BRK-QFP-44-10x10-P0.8/external/kicad-footprints"]
 	path = BRK-QFP-44-10x10-P0.8/external/kicad-footprints
-	url = ./third-party/kicad-footprints
+	url = ./external/kicad-footprints
 [submodule "BRK-QFP-44-10x10-P0.8/external/kicad-symbols"]
 	path = BRK-QFP-44-10x10-P0.8/external/kicad-symbols
-	url = ./third-party/kicad-symbols
+	url = ./external/kicad-symbols
 [submodule "BRK-QFP-44-10x10-P0.8-Sharp/external/gekkio-kicad-libs"]
 	path = BRK-QFP-44-10x10-P0.8-Sharp/external/gekkio-kicad-libs
-	url = ./third-party/gekkio-kicad-libs
+	url = ./external/gekkio-kicad-libs
 [submodule "BRK-QFP-44-10x10-P0.8-Sharp/external/kicad-footprints"]
 	path = BRK-QFP-44-10x10-P0.8-Sharp/external/kicad-footprints
-	url = ./third-party/kicad-footprints
+	url = ./external/kicad-footprints
 [submodule "BRK-QFP-44-10x10-P0.8-Sharp/external/kicad-symbols"]
 	path = BRK-QFP-44-10x10-P0.8-Sharp/external/kicad-symbols
-	url = ./third-party/kicad-symbols
+	url = ./external/kicad-symbols
 [submodule "BRK-QFP-56-10x10-P0.65/external/gekkio-kicad-libs"]
 	path = BRK-QFP-56-10x10-P0.65/external/gekkio-kicad-libs
-	url = ./third-party/gekkio-kicad-libs
+	url = ./external/gekkio-kicad-libs
 [submodule "BRK-QFP-56-10x10-P0.65/external/kicad-footprints"]
 	path = BRK-QFP-56-10x10-P0.65/external/kicad-footprints
-	url = ./third-party/kicad-footprints
+	url = ./external/kicad-footprints
 [submodule "BRK-QFP-56-10x10-P0.65/external/kicad-symbols"]
 	path = BRK-QFP-56-10x10-P0.65/external/kicad-symbols
-	url = ./third-party/kicad-symbols
+	url = ./external/kicad-symbols
 [submodule "BRK-TSSOP-14-4.4x5-P0.65/external/kicad-footprints"]
 	path = BRK-TSSOP-14-4.4x5-P0.65/external/kicad-footprints
-	url = ./third-party/kicad-footprints
+	url = ./external/kicad-footprints
 [submodule "BRK-TSSOP-14-4.4x5-P0.65/external/kicad-symbols"]
 	path = BRK-TSSOP-14-4.4x5-P0.65/external/kicad-symbols
-	url = ./third-party/kicad-symbols
+	url = ./external/kicad-symbols
 [submodule "BRK-TSSOP-20-4.4x6.5-P0.65/external/kicad-footprints"]
 	path = BRK-TSSOP-20-4.4x6.5-P0.65/external/kicad-footprints
-	url = ./third-party/kicad-footprints
+	url = ./external/kicad-footprints
 [submodule "BRK-TSSOP-20-4.4x6.5-P0.65/external/kicad-symbols"]
 	path = BRK-TSSOP-20-4.4x6.5-P0.65/external/kicad-symbols
-	url = ./third-party/kicad-symbols
+	url = ./external/kicad-symbols
 [submodule "BRK-TSSOP-24-4.4x7.8-P0.65/external/kicad-footprints"]
 	path = BRK-TSSOP-24-4.4x7.8-P0.65/external/kicad-footprints
-	url = ./third-party/kicad-footprints
+	url = ./external/kicad-footprints
 [submodule "BRK-TSSOP-24-4.4x7.8-P0.65/external/kicad-symbols"]
 	path = BRK-TSSOP-24-4.4x7.8-P0.65/external/kicad-symbols
-	url = ./third-party/kicad-symbols
+	url = ./external/kicad-symbols
