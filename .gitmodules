@@ -67,3 +67,51 @@
 [submodule "BRK-SSOP-18-6x7.4-P0.8/external/kicad-symbols"]
 	path = BRK-SSOP-18-6x7.4-P0.8/external/kicad-symbols
 	url = https://github.com/KiCad/kicad-symbols.git
+[submodule "BRK-QFP-32-7x7-P0.8/external/kicad-footprints"]
+	path = BRK-QFP-32-7x7-P0.8/external/kicad-footprints
+	url = https://github.com/KiCad/kicad-footprints.git
+[submodule "BRK-QFP-32-7x7-P0.8/external/kicad-symbols"]
+	path = BRK-QFP-32-7x7-P0.8/external/kicad-symbols
+	url = https://github.com/KiCad/kicad-symbols.git
+[submodule "BRK-QFP-44-10x10-P0.8/external/kicad-footprints"]
+	path = BRK-QFP-44-10x10-P0.8/external/kicad-footprints
+	url = https://github.com/KiCad/kicad-footprints.git
+[submodule "BRK-QFP-44-10x10-P0.8/external/kicad-symbols"]
+	path = BRK-QFP-44-10x10-P0.8/external/kicad-symbols
+	url = https://github.com/KiCad/kicad-symbols.git
+[submodule "BRK-QFP-44-10x10-P0.8-Sharp/external/gekkio-kicad-libs"]
+	path = BRK-QFP-44-10x10-P0.8-Sharp/external/gekkio-kicad-libs
+	url = https://github.com/Gekkio/gekkio-kicad-libs.git
+[submodule "BRK-QFP-44-10x10-P0.8-Sharp/external/kicad-footprints"]
+	path = BRK-QFP-44-10x10-P0.8-Sharp/external/kicad-footprints
+	url = https://github.com/KiCad/kicad-footprints.git
+[submodule "BRK-QFP-44-10x10-P0.8-Sharp/external/kicad-symbols"]
+	path = BRK-QFP-44-10x10-P0.8-Sharp/external/kicad-symbols
+	url = https://github.com/KiCad/kicad-symbols.git
+[submodule "BRK-QFP-56-10x10-P0.65/external/gekkio-kicad-libs"]
+	path = BRK-QFP-56-10x10-P0.65/external/gekkio-kicad-libs
+	url = https://github.com/Gekkio/gekkio-kicad-libs.git
+[submodule "BRK-QFP-56-10x10-P0.65/external/kicad-footprints"]
+	path = BRK-QFP-56-10x10-P0.65/external/kicad-footprints
+	url = https://github.com/KiCad/kicad-footprints.git
+[submodule "BRK-QFP-56-10x10-P0.65/external/kicad-symbols"]
+	path = BRK-QFP-56-10x10-P0.65/external/kicad-symbols
+	url = https://github.com/KiCad/kicad-symbols.git
+[submodule "BRK-TSSOP-14-4.4x5-P0.65/external/kicad-footprints"]
+	path = BRK-TSSOP-14-4.4x5-P0.65/external/kicad-footprints
+	url = https://github.com/KiCad/kicad-footprints.git
+[submodule "BRK-TSSOP-14-4.4x5-P0.65/external/kicad-symbols"]
+	path = BRK-TSSOP-14-4.4x5-P0.65/external/kicad-symbols
+	url = https://github.com/KiCad/kicad-symbols.git
+[submodule "BRK-TSSOP-20-4.4x6.5-P0.65/external/kicad-footprints"]
+	path = BRK-TSSOP-20-4.4x6.5-P0.65/external/kicad-footprints
+	url = https://github.com/KiCad/kicad-footprints.git
+[submodule "BRK-TSSOP-20-4.4x6.5-P0.65/external/kicad-symbols"]
+	path = BRK-TSSOP-20-4.4x6.5-P0.65/external/kicad-symbols
+	url = https://github.com/KiCad/kicad-symbols.git
+[submodule "BRK-TSSOP-24-4.4x7.8-P0.65/external/kicad-footprints"]
+	path = BRK-TSSOP-24-4.4x7.8-P0.65/external/kicad-footprints
+	url = https://github.com/KiCad/kicad-footprints.git
+[submodule "BRK-TSSOP-24-4.4x7.8-P0.65/external/kicad-symbols"]
+	path = BRK-TSSOP-24-4.4x7.8-P0.65/external/kicad-symbols
+	url = https://github.com/KiCad/kicad-symbols.git

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Connector_PinHeader_2.54mm)(type KiCad)(uri ${KIPRJMOD}/external/kicad-footprints/Connector_PinHeader_2.54mm.pretty)(options "")(descr ""))
+  (lib (name Package_QFP)(type KiCad)(uri ${KIPRJMOD}/external/kicad-footprints/Package_QFP.pretty)(options "")(descr ""))
+)

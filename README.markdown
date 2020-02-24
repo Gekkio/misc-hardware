@@ -18,6 +18,51 @@ Breakout board for one MSOP-8 component (3x3mm body, pitch 0.65mm).
 * Layer count: 2
 * Surface finish: any (ENIG recommended)
 
+## BRK-QFP-32-7x7-P0.8
+
+![BRK-QFP-32-7x7-P0.8 v1.0 KiCad 3D view](BRK-QFP-32-7x7-P0.8.3d.png)
+
+Breakout board for one QFP-32 component (7x7mm body, pitch 0.8mm).
+
+* PCB size: 39.6x52.5mm
+* PCB thickness: any (1.0mm recommended)
+* Layer count: 2
+* Surface finish: any (ENIG recommended)
+
+## BRK-QFP-44-10x10-P0.8
+
+![BRK-QFP-44-10x10-P0.8 v1.0 KiCad 3D view](BRK-QFP-44-10x10-P0.8.3d.png)
+
+Breakout board for one QFP-44 component (10x10mm body, pitch 0.8mm).
+
+* PCB size: 39.6x52.5mm
+* PCB thickness: any (1.0mm recommended)
+* Layer count: 2
+* Surface finish: any (ENIG recommended)
+
+## BRK-QFP-44-10x10-P0.8-Sharp
+
+![BRK-QFP-44-10x10-P0.8-Sharp v1.0 KiCad 3D view](BRK-QFP-44-10x10-P0.8-Sharp.3d.png)
+
+Breakout board for one QFP-44 component (10x10mm body, pitch 0.8mm, different
+footprint used by Sharp Corporation).
+
+* PCB size: 39.6x52.5mm
+* PCB thickness: any (1.0mm recommended)
+* Layer count: 2
+* Surface finish: any (ENIG recommended)
+
+## BRK-QFP-56-10x10-P0.65
+
+![BRK-QFP-56-10x10-P0.65 v1.0 KiCad 3D view](BRK-QFP-56-10x10-P0.65.3d.png)
+
+Breakout board for one QFP-56 component (10x10mm body, pitch 0.65mm).
+
+* PCB size: 45.6x57.3mm
+* PCB thickness: any (1.0mm recommended)
+* Layer count: 2
+* Surface finish: any (ENIG recommended)
+
 ## BRK-SC-70-6
 
 ![BRK-SC-70-6 v1.1 KiCad 3D view](BRK-SC-70-6.3d.png)
@@ -69,6 +114,39 @@ Breakout board for one SSOP-16 component (4.4x5.2mm body, pitch 0.65mm).
 Breakout board for one SSOP-18 component (6x7.4mm body, pitch 0.8mm).
 
 * PCB size: 24x35.3mm
+* PCB thickness: any (1.0mm recommended)
+* Layer count: 2
+* Surface finish: any (ENIG recommended)
+
+## BRK-TSSOP-14-4.4x5-P0.65
+
+![BRK-TSSOP-14-4.4x5-P0.65 v1.0 KiCad 3D view](BRK-TSSOP-14-4.4x5-P0.65.3d.png)
+
+Breakout board for one TSSOP-14 component (4.4x5mm body, pitch 0.65mm).
+
+* PCB size: 18.9x30.2mm
+* PCB thickness: any (1.0mm recommended)
+* Layer count: 2
+* Surface finish: any (ENIG recommended)
+
+## BRK-TSSOP-20-4.4x6.5-P0.65
+
+![BRK-TSSOP-20-4.4x6.5-P0.65 v1.0 KiCad 3D view](BRK-TSSOP-20-4.4x6.5-P0.65.3d.png)
+
+Breakout board for one TSSOP-20 component (4.4x6.5mm body, pitch 0.65mm).
+
+* PCB size: 18.9x37.8mm
+* PCB thickness: any (1.0mm recommended)
+* Layer count: 2
+* Surface finish: any (ENIG recommended)
+
+## BRK-TSSOP-24-4.4x7.8-P0.65
+
+![BRK-TSSOP-24-4.4x7.8-P0.65 v1.0 KiCad 3D view](BRK-TSSOP-24-4.4x7.8-P0.65.3d.png)
+
+Breakout board for one TSSOP-24 component (4.4x7.8mm body, pitch 0.65mm).
+
+* PCB size: 18.9x42.9mm
 * PCB thickness: any (1.0mm recommended)
 * Layer count: 2
 * Surface finish: any (ENIG recommended)
