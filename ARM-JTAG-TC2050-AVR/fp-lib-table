@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Connector_IDC)(type KiCad)(uri ${KIPRJMOD}/external/kicad-footprints/Connector_IDC.pretty)(options "")(descr ""))
+  (lib (name MountingHole)(type KiCad)(uri ${KIPRJMOD}/external/kicad-footprints/MountingHole.pretty)(options "")(descr ""))
+)

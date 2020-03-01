@@ -7,6 +7,18 @@ Used libraries:
 * [kicad-footprints](https://github.com/KiCad/kicad-footprints)
 * [kicad-symbols](https://github.com/KiCad/kicad-symbols)
 
+## ARM-JTAG-TC2050-AVR
+
+![ARM-JTAG-TC2050-AVR v1.0 KiCad 3D view](ARM-JTAG-TC2050-AVR.3d.png)
+
+Adapts 20-pin (2x10) 2.54 inch ARM JTAG to 10-pin IDC connector using AVR JTAG
+pinout (compatible with Tag-Connect TC2050).
+
+* PCB size: 37x51mm
+* PCB thickness: any
+* Layer count: 2
+* Surface finish: any
+
 ## BRK-MSOP-8-3x3-P0.65
 
 ![BRK-MSOP-8-3x3-P0.65 v1.1 KiCad 3D view](BRK-MSOP-8-3x3-P0.65.3d.png)
@@ -196,3 +208,15 @@ Adapts 6-pin (1x6) PIC ICSP to 5-pin Molex 504050 connector.
 * PCB thickness: any
 * Layer count: 2
 * Surface finish: any (ENIG recommended)
+
+## PIC-ICSP-TC2030
+
+![PIC-ICSP-TC2030 v1.0 KiCad 3D view](PIC-ICSP-TC2030.3d.png)
+
+Adapts 6-pin (1x6) PIC ICSP to 6-pin IDC connector (compatible with Tag-Connect
+TC2030).
+
+* PCB size: 25x35mm
+* PCB thickness: any
+* Layer count: 2
+* Surface finish: any

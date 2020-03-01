@@ -118,3 +118,15 @@
 [submodule "BRK-TSSOP-24-4.4x7.8-P0.65/external/kicad-symbols"]
 	path = BRK-TSSOP-24-4.4x7.8-P0.65/external/kicad-symbols
 	url = ./external/kicad-symbols
+[submodule "PIC-ICSP-TC2030/external/kicad-footprints"]
+	path = PIC-ICSP-TC2030/external/kicad-footprints
+	url = ./external/kicad-footprints
+[submodule "PIC-ICSP-TC2030/external/kicad-symbols"]
+	path = PIC-ICSP-TC2030/external/kicad-symbols
+	url = ./external/kicad-symbols
+[submodule "ARM-JTAG-TC2050-AVR/external/kicad-footprints"]
+	path = ARM-JTAG-TC2050-AVR/external/kicad-footprints
+	url = ./external/kicad-footprints
+[submodule "ARM-JTAG-TC2050-AVR/external/kicad-symbols"]
+	path = ARM-JTAG-TC2050-AVR/external/kicad-symbols
+	url = ./external/kicad-symbols
