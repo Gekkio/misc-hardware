@@ -202,7 +202,7 @@ Adapts 20-pin (2x10) 2.54 inch ARM JTAG used by Bus Blaster to 10-pin (2x5)
 
 ![EV-BA33Dxx v1.0 KiCad 3D view](EV-BA33Dxx.3d.png)
 
-Evaluation/breakout board for Rohm EV-BA33Dxx linear regulators.
+Evaluation/breakout board for Rohm BA33Dxx linear regulators.
 
 * PCB size: 20x29mm
 * PCB thickness: any
