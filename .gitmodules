@@ -136,3 +136,12 @@
 [submodule "TC2050-OOPS/external/kicad-symbols"]
 	path = TC2050-OOPS/external/kicad-symbols
 	url = ./external/kicad-symbols
+[submodule "EV-BA33Dxx/external/gekkio-kicad-libs"]
+	path = EV-BA33Dxx/external/gekkio-kicad-libs
+	url = ./external/gekkio-kicad-libs
+[submodule "EV-BA33Dxx/external/kicad-footprints"]
+	path = EV-BA33Dxx/external/kicad-footprints
+	url = ./external/kicad-footprints
+[submodule "EV-BA33Dxx/external/kicad-symbols"]
+	path = EV-BA33Dxx/external/kicad-symbols
+	url = ./external/kicad-symbols
