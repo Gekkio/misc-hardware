@@ -130,3 +130,9 @@
 [submodule "ARM-JTAG-TC2050-AVR/external/kicad-symbols"]
 	path = ARM-JTAG-TC2050-AVR/external/kicad-symbols
 	url = ./external/kicad-symbols
+[submodule "TC2050-OOPS/external/kicad-footprints"]
+	path = TC2050-OOPS/external/kicad-footprints
+	url = ./external/kicad-footprints
+[submodule "TC2050-OOPS/external/kicad-symbols"]
+	path = TC2050-OOPS/external/kicad-symbols
+	url = ./external/kicad-symbols

@@ -220,3 +220,15 @@ TC2030).
 * PCB thickness: any
 * Layer count: 2
 * Surface finish: any
+
+## TC2050-OOPS
+
+![TC2050-OOPS v1.0 KiCad 3D view](TC2050-OOPS.3d.png)
+
+Did you use Counter_Clockwise footprint instead of Odd_Even for TC2050 in some design? Oops!
+This board fixes the pinout in this kind of scenario.
+
+* PCB size: 27x25mm
+* PCB thickness: any
+* Layer count: 2
+* Surface finish: any
