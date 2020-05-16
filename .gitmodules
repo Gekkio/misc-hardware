@@ -7,12 +7,6 @@
 [submodule "external/kicad-symbols"]
 	path = external/kicad-symbols
 	url = https://github.com/KiCad/kicad-symbols.git
-[submodule "BUS-BLASTER-AVR/external/kicad-footprints"]
-	path = BUS-BLASTER-AVR/external/kicad-footprints
-	url = ./external/kicad-footprints
-[submodule "BUS-BLASTER-AVR/external/kicad-symbols"]
-	path = BUS-BLASTER-AVR/external/kicad-symbols
-	url = ./external/kicad-symbols
 [submodule "PIC-ICSP-504050/external/kicad-footprints"]
 	path = PIC-ICSP-504050/external/kicad-footprints
 	url = ./external/kicad-footprints
@@ -24,12 +18,6 @@
 	url = ./external/kicad-footprints
 [submodule "BRK-SC-70-6/external/kicad-symbols"]
 	path = BRK-SC-70-6/external/kicad-symbols
-	url = ./external/kicad-symbols
-[submodule "BUS-BLASTER-AVR-1.27/external/kicad-footprints"]
-	path = BUS-BLASTER-AVR-1.27/external/kicad-footprints
-	url = ./external/kicad-footprints
-[submodule "BUS-BLASTER-AVR-1.27/external/kicad-symbols"]
-	path = BUS-BLASTER-AVR-1.27/external/kicad-symbols
 	url = ./external/kicad-symbols
 [submodule "BRK-SOT-23-3/external/kicad-footprints"]
 	path = BRK-SOT-23-3/external/kicad-footprints

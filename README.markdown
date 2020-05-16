@@ -174,30 +174,6 @@ Breakout board for one VSSOP-8 component (2.4x2.1mm body, pitch 0.5mm).
 * Layer count: 2
 * Surface finish: any (ENIG recommended)
 
-## BUS-BLASTER-AVR
-
-![BUS-BLASTER-AVR v1.0 KiCad 3D view](BUS-BLASTER-AVR.3d.png)
-
-Adapts 20-pin (2x10) 2.54 inch ARM JTAG used by Bus Blaster to 10-pin (2x5)
-2.54 inch AVR JTAG.
-
-* PCB size: 54x37mm
-* PCB thickness: any
-* Layer count: 2
-* Surface finish: any
-
-## BUS-BLASTER-AVR-1.27
-
-![BUS-BLASTER-AVR-1.27 v1.0 KiCad 3D view](BUS-BLASTER-AVR-1.27.3d.png)
-
-Adapts 20-pin (2x10) 2.54 inch ARM JTAG used by Bus Blaster to 10-pin (2x5)
-1.27 inch AVR JTAG.
-
-* PCB size: 39x37mm
-* PCB thickness: any
-* Layer count: 2
-* Surface finish: any
-
 ## EV-BA33Dxx
 
 ![EV-BA33Dxx v1.0 KiCad 3D view](EV-BA33Dxx.3d.png)
