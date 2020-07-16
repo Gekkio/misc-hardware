@@ -133,3 +133,12 @@
 [submodule "EV-BA33Dxx/external/kicad-symbols"]
 	path = EV-BA33Dxx/external/kicad-symbols
 	url = ./external/kicad-symbols
+[submodule "EV-MAX-V-E64/external/gekkio-kicad-libs"]
+	path = EV-MAX-V-E64/external/gekkio-kicad-libs
+	url = ./external/gekkio-kicad-libs
+[submodule "EV-MAX-V-E64/external/kicad-footprints"]
+	path = EV-MAX-V-E64/external/kicad-footprints
+	url = ./external/kicad-footprints
+[submodule "EV-MAX-V-E64/external/kicad-symbols"]
+	path = EV-MAX-V-E64/external/kicad-symbols
+	url = ./external/kicad-symbols

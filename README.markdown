@@ -185,6 +185,17 @@ Evaluation/breakout board for Rohm BA33Dxx linear regulators.
 * Layer count: 2
 * Surface finish: any (ENIG recommended)
 
+## EV-MAX-V-E64
+
+![EV-MAX-V-E64 v1.0 KiCad 3D view](EV-MAX-V-E64.3d.png)
+
+Evaluation/breakout board for MAX V CPLDs in EQFP-64 package.
+
+* PCB size: 70x70mm
+* PCB thickness: any
+* Layer count: 2
+* Surface finish: any (ENIG recommended)
+
 ## PIC-ICSP-504050
 
 ![PIC-ICSP-504050 v1.0 KiCad 3D view](PIC-ICSP-504050.3d.png)
