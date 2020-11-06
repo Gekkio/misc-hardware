@@ -1,0 +1,45 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,5.1.7-a382d34a8~87~ubuntu20.04.1*%
+%TF.CreationDate,2020-11-06T18:29:30+02:00*%
+%TF.ProjectId,BRK-SC-70-6,42524b2d-5343-42d3-9730-2d362e6b6963,v1.0*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Copper,L2,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 5.1.7-a382d34a8~87~ubuntu20.04.1) date 2020-11-06 18:29:30*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentPad*%
+%ADD10O,1.700000X1.700000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD11R,1.700000X1.700000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.P,J2,3*%
+%TO.N,PIN6*%
+X105080000Y-97460000D03*
+%TO.P,J2,2*%
+%TO.N,PIN5*%
+X105080000Y-100000000D03*
+D11*
+%TO.P,J2,1*%
+%TO.N,PIN4*%
+X105080000Y-102540000D03*
+%TD*%
+D10*
+%TO.P,J1,3*%
+%TO.N,PIN3*%
+X94920000Y-102540000D03*
+%TO.P,J1,2*%
+%TO.N,PIN2*%
+X94920000Y-100000000D03*
+D11*
+%TO.P,J1,1*%
+%TO.N,PIN1*%
+X94920000Y-97460000D03*
+%TD*%
+M02*

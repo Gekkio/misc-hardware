@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name LED_SMD)(type KiCad)(uri /home/joonas/projects/gekkio/misc-hardware/BRK-VSSOP-8-2.4x2.1-P0.5/external/kicad-footprints/LED_SMD.pretty)(options "")(descr ""))
+)

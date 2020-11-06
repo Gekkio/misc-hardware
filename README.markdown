@@ -19,17 +19,6 @@ pinout (compatible with Tag-Connect TC2050).
 * Layer count: 2
 * Surface finish: any
 
-## BRK-MSOP-8-3x3-P0.65
-
-![BRK-MSOP-8-3x3-P0.65 v1.1 KiCad 3D view](BRK-MSOP-8-3x3-P0.65.3d.png)
-
-Breakout board for one MSOP-8 component (3x3mm body, pitch 0.65mm).
-
-* PCB size: 16.3x22.6mm
-* PCB thickness: any (1.0mm recommended)
-* Layer count: 2
-* Surface finish: any (ENIG recommended)
-
 ## BRK-QFP-32-7x7-P0.8
 
 ![BRK-QFP-32-7x7-P0.8 v1.0 KiCad 3D view](BRK-QFP-32-7x7-P0.8.3d.png)
@@ -75,17 +64,6 @@ Breakout board for one QFP-56 component (10x10mm body, pitch 0.65mm).
 * Layer count: 2
 * Surface finish: any (ENIG recommended)
 
-## BRK-SC-70-6
-
-![BRK-SC-70-6 v1.1 KiCad 3D view](BRK-SC-70-6.3d.png)
-
-Breakout board for one SC-70-6 component.
-
-* PCB size: 16.3x18mm
-* PCB thickness: any (1.0mm recommended)
-* Layer count: 2
-* Surface finish: any (ENIG recommended)
-
 ## BRK-SOT-23-3
 
 ![BRK-SOT-23-3 v1.1 KiCad 3D view](BRK-SOT-23-3.3d.png)
@@ -93,17 +71,6 @@ Breakout board for one SC-70-6 component.
 Breakout board for two SOT-23-3 components.
 
 * PCB size: 16.3x23.4mm
-* PCB thickness: any (1.0mm recommended)
-* Layer count: 2
-* Surface finish: any (ENIG recommended)
-
-## BRK-SOT-23-6
-
-![BRK-SOT-23-6 v1.1 KiCad 3D view](BRK-SOT-23-6.3d.png)
-
-Breakout board for one SOT-23-6 component.
-
-* PCB size: 16.3x18mm
 * PCB thickness: any (1.0mm recommended)
 * Layer count: 2
 * Surface finish: any (ENIG recommended)
